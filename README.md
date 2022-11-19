@@ -74,8 +74,8 @@
    ⌞ 埋設 Google Analysit、GA4、GTM 來追蹤網站成效，並且設定轉換率確認使用者停留頁面等等事件<BR>
    ⌞ 使用 SCSS 及 Webpack 提高網頁效率及程式碼整潔<BR>
 
- # PARASTAR - 元宇宙英雄篇章即將展開 (PARASTAR)(活動已結束)
- - <a href="https://www.paraland.world/parastar/zh" target="blank"><B>PARASTAR活動網站</B> (RWD)</a> <BR>
+ # PARASTAR - 元宇宙英雄篇章即將展開 (PARASTAR)
+ - <a href="https://www.paraland.world/parastar/zh" target="blank"><B>PARASTAR活動網站 (活動已結束)</B> (RWD)</a> <BR>
    <a href="https://www.paraland.world/parastar/zh" target="blank"><img src="./image/PARASTAR_OG_IMG.png"><BR></a> <BR>
   
   ⌞ 使用 Asp.Net Core 以及 Bootstrap 完成，在資料獲取完及運算後渲染至頁面。<BR>
@@ -96,8 +96,19 @@
    ⌞ 使用多種 Plugin 搭配網頁達到多種特效，加速網頁開發<BR>
    ⌞ 使用 SCSS 及 Webpack 提高網頁效率及程式碼整潔<BR>
 
-   
 
+ # 區塊鏈募資活動網站 (區塊鏈募資活動網站)
+ - <a href="https://www.paraland.world/MyWallet/zh" target="blank"><B>區塊鏈募資活動網站 (活動已結束)</B></a> <BR>
+   <a href="https://www.paraland.world/MyWallet/zh" target="blank"><img src="./image/MYWALLET_OG_IMG.png"><BR></a><BR>
+   ⌞ 使用 Asp.Net Core以及 Bootstrap，串接web3.0 實作電子錢包打幣流程<BR>
+   ⌞ 串接 web3.0 實作網站連接metamask和 qubic 錢包<BR>
+   ⌞ 串接區塊鏈 WEB3.0，並設計出斗內條UI得到目前募資額度<BR>
+   ⌞ 建立導數計時器，設立時間到斗內功能開關需求<BR>
+   ⌞ 優化網站架構，未來朝會員管理頁面構想<BR>
+   ⌞ 使用多種 Plugin 搭配網頁達到多種特效，加速網頁開發<BR>
+   ⌞ 使用 SCSS 及 Webpack 提高網頁效率及程式碼整潔<BR>
+
+   
  # 遊戲後台網站 (遊戲後台網站)
  - <a href="https://joechen0730.github.io/Vuex-todolist/" target="_blank"><B>遊戲後台網站</B></a> <BR>
   <a href="https://joechen0730.github.io/Vuex-todolist/" target="_blank"><img src="./image/EliteTrial_zh_OG_IMG.png"><BR></a><BR>
