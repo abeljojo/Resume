@@ -66,7 +66,7 @@
      
  # PARAZEN - AR NFT 先鋒者系列 (Parazen) 
  - <a href="http://www.paraland.world/parazen" target="blank"><B>PARAZEN - 首創 AR NFT 先鋒者系列</B></a> <BR>
-   <a href="http://www.paraland.world/parazen" target="blank"><img src="./image/PARAZEN_OG_IMG.png" width="900" height="500"><BR></a> <BR>
+   <a href="http://www.paraland.world/parazen" target="blank"><img src="./image/PARAZEN_OG_IMG.png"><BR></a> <BR>
    ⌞ 使用 Asp.Net Core 以及 Bootstrap 完成，並用 i18n 支持多語言（中 / 英 / 日) 。<BR>
    ⌞ 串接 web3.0 達到網站串接metamask錢包流程<BR>
    ⌞ 使用多種 Plugin 搭配網頁達到多種特效，加速網頁開發<BR>
@@ -76,7 +76,7 @@
 
  # PARASTAR - 元宇宙英雄篇章即將展開 (PARASTAR)(活動已結束)
  - <a href="https://www.paraland.world/parastar/zh" target="blank"><B>PARASTAR活動網站</B> (RWD)</a> <BR>
-   <a href="https://www.paraland.world/parastar/zh" target="blank"><img src="./image/PARASTAR_OG_IMG.png" width="500" height="230"><BR></a> <BR>
+   <a href="https://www.paraland.world/parastar/zh" target="blank"><img src="./image/PARASTAR_OG_IMG.png"><BR></a> <BR>
   
   ⌞ 使用 Asp.Net Core 以及 Bootstrap 完成，在資料獲取完及運算後渲染至頁面。<BR>
   ⌞ 使用 Fetch 串接後端api取得每項投票比數<BR>
@@ -88,7 +88,7 @@
   
  # 區塊鏈網站 (區塊鏈網站)
  - <a href="https://www.paraland.world/MyWallet/zh" target="blank"><B>區塊鏈網站</B></a> <BR>
-   <a href="https://www.paraland.world/MyWallet/zh" target="blank"><img src="./image/MYWALLET_OG_IMG.png" width="700" height="500"><BR></a><BR>
+   <a href="https://www.paraland.world/MyWallet/zh" target="blank"><img src="./image/MYWALLET_OG_IMG.png"><BR></a><BR>
    ⌞ 使用 Asp.Net Core以及 Bootstrap，在資料獲取完及運算後渲染至頁面。<BR>
    ⌞ 串接區塊鏈 WEB3.0 ，實作開盒跟解盲畫面流程<BR>
    ⌞ 串接 web3.0 實作網站連接metamask和 qubic 錢包<BR>
@@ -100,7 +100,7 @@
 
  # 遊戲後台網站 (遊戲後台網站)
  - <a href="https://joechen0730.github.io/Vuex-todolist/" target="_blank"><B>遊戲後台網站</B></a> <BR>
-  <a href="https://joechen0730.github.io/Vuex-todolist/" target="_blank"><img src="./image/EliteTrial_zh_OG_IMG.png" width="700" height="300"><BR></a><BR>
+  <a href="https://joechen0730.github.io/Vuex-todolist/" target="_blank"><img src="./image/EliteTrial_zh_OG_IMG.png"><BR></a><BR>
   ⌞ 使用 Next.js，實作SSR 和 SSG<BR>
   ⌞ 使用 tailwindcss實作UI畫面的製作跟整體風格規劃加速開發效率<BR>
   ⌞ 使用 Material UI 配合tailwindcss，達成快速統一後台 UI 設計風格與功能<BR>
@@ -112,14 +112,14 @@
 
  # 【JJ Lin】360 互動式WebAR遊戲後半部遊戲更新及製作
  - <a href="https://joechen0730.github.io/Vuex-todolist/" target="_blank"><B>360 互動式WebAR遊戲</B></a> <BR>
-  <a href="https://joechen0730.github.io/Vuex-todolist/" target="_blank"><img src="./image/EliteTrial_zh_OG_IMG.png" width="700" height="300"><BR></a><BR>
+  <a href="https://joechen0730.github.io/Vuex-todolist/" target="_blank"><img src="./image/EliteTrial_zh_OG_IMG.png"><BR></a><BR>
   ⌞ 使用 a-frame達成WebAR360畫面視角移動<BR>
   ⌞ 使用 jquery library撰寫互動式事件<BR>
   ⌞ 維護並管理整體遊戲運作及UI<BR>
 
   # 台新銀行WebAR遊戲網站
  - <a href="https://joechen0730.github.io/Vuex-todolist/" target="_blank"><B>台新銀行WebAR遊戲網站</B></a> <BR>
-  <a href="https://joechen0730.github.io/Vuex-todolist/" target="_blank"><img src="./image/EliteTrial_zh_OG_IMG.png" width="700" height="300"><BR></a><BR>
+  <a href="https://joechen0730.github.io/Vuex-todolist/" target="_blank"><img src="./image/EliteTrial_zh_OG_IMG.png"><BR></a><BR>
 
   ⌞ 使用 a-frame達成WebAR360畫面視角移動<BR>
   ⌞ 使用 a-frame 撰寫邏輯達成物品視角拖曳及連線<BR>
@@ -129,7 +129,7 @@
 
   # 台灣電力公司WebAR遊戲網站
  - <a href="https://joechen0730.github.io/Vuex-todolist/" target="_blank"><B>台灣電力公司WebAR遊戲網站</B></a> <BR>
-  <a href="https://joechen0730.github.io/Vuex-todolist/" target="_blank"><img src="./image/EliteTrial_zh_OG_IMG.png" width="700" height="300"><BR></a><BR>
+  <a href="https://joechen0730.github.io/Vuex-todolist/" target="_blank"><img src="./image/EliteTrial_zh_OG_IMG.png"><BR></a><BR>
 
   ⌞ 使用 a-frame達成WebAR360畫面視角移動<BR>
   ⌞ 使用 a-frame 撰寫邏輯達成物品視角拖曳及連線<BR>
