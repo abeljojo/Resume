@@ -56,7 +56,6 @@
  # Paraland遊戲官網 (Paraland web)
  - <a href="http://www.paraland.world/" target="blank"><B>PARALAND -區塊鏈元宇宙社群手遊</B></a><BR>
    <a href="http://www.paraland.world/" target="blank"><img src="./image/PARALAND_OG_IMG.png" width="900" height="500"><BR></a> <BR>
-   <!-- <img src="booknote_cart.png" width="450" height="300"> -->
    ⌞ 使用 Asp.Net Core 以及 Bootstrap 完成，並用 i18n 支持多語言（中 / 英 / 日) 。<BR>
    ⌞ 串接 web3.0 達到網站串接metamask錢包流程<BR>
    ⌞ 使用多種 Plugin 搭配網頁達到多種特效，加速網頁開發<BR>
@@ -68,7 +67,6 @@
  # PARAZEN - AR NFT 先鋒者系列 (Parazen) 
  - <a href="http://www.paraland.world/parazen" target="blank"><B>PARAZEN - 首創 AR NFT 先鋒者系列</B></a> <BR>
    <a href="http://www.paraland.world/parazen" target="blank"><img src="./image/PARAZEN_OG_IMG.png" width="900" height="500"><BR></a> <BR>
-   <!-- <img src="ga.jpg" width="900" height="500"><BR> -->
    ⌞ 使用 Asp.Net Core 以及 Bootstrap 完成，並用 i18n 支持多語言（中 / 英 / 日) 。<BR>
    ⌞ 串接 web3.0 達到網站串接metamask錢包流程<BR>
    ⌞ 使用多種 Plugin 搭配網頁達到多種特效，加速網頁開發<BR>
@@ -82,9 +80,9 @@
   
   ⌞ 使用 Asp.Net Core 以及 Bootstrap 完成，在資料獲取完及運算後渲染至頁面。<BR>
   ⌞ 使用 Fetch 串接後端api取得每項投票比數<BR>
-  ⌞ 實作 頁面間隔數秒重新get api，達到每隔10秒 update view，並實作排名動態更換
-  ⌞ 外部串接第三方 twitter and facebook api 達成自訂發文內容機制
-  ⌞ 使用fetch get第三方 twitter api，取得所有候選人帳號大頭貼並download post 到 cdn
+  ⌞ 實作 頁面間隔數秒重新get api，達到每隔10秒 update view，並實作排名動態更換<BR>
+  ⌞ 外部串接第三方 twitter and facebook api 達成自訂發文內容機制<BR>
+  ⌞ 使用fetch get第三方 twitter api，取得所有候選人帳號大頭貼並download post 到 cdn<BR>
   ⌞ 使用 SCSS 及 Webpack 提高網頁效率及程式碼整潔<BR>
 
   
@@ -106,8 +104,8 @@
   ⌞ 使用 Next.js，實作SSR 和 SSG<BR>
   ⌞ 使用 tailwindcss實作UI畫面的製作跟整體風格規劃加速開發效率<BR>
   ⌞ 使用 Material UI 配合tailwindcss，達成快速統一後台 UI 設計風格與功能<BR>
-  ⌞ 使用Data fetch，串接後端api，整合所有api並管理
-  ⌞ 使用Redux，並用 store 將 hook 狀態集中管理(實作中)
+  ⌞ 使用Data fetch，串接後端api，整合所有api並管理<BR>
+  ⌞ 使用Redux，並用 store 將 hook 狀態集中管理(實作中)<BR>
 
   
 ### 其他外部專案 <BR>
