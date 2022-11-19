@@ -55,7 +55,7 @@
 ### 作品集 
  # Paraland遊戲官網 (Paraland web)
  - <a href="http://www.paraland.world/" target="blank"><B>PARALAND -區塊鏈元宇宙社群手遊</B></a><BR>
-   <a href="http://www.paraland.world/" target="blank"><img src="./image/PARALAND_OG_IMG.png" width="900" height="500"><BR></a> <BR>
+   <a href="http://www.paraland.world/" target="blank"><img src="./image/PARALAND_OG_IMG.png"><BR></a> <BR>
    ⌞ 使用 Asp.Net Core 以及 Bootstrap 完成，並用 i18n 支持多語言（中 / 英 / 日) 。<BR>
    ⌞ 串接 web3.0 達到網站串接metamask錢包流程<BR>
    ⌞ 使用多種 Plugin 搭配網頁達到多種特效，加速網頁開發<BR>
