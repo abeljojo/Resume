@@ -110,8 +110,8 @@
 
    
  # 遊戲後台網站 (遊戲後台網站)
- - <a href="" target="_blank"><B>遊戲後台網站</B></a> <BR>
-  <a href="" target="_blank"><img src="./image/backstage.png"><BR></a><BR>
+ - <B>遊戲後台網站</B><BR>
+  <img src="./image/backstage.png"><BR>
   ⌞ 使用 Next.js，實作SSR 和 SSG<BR>
   ⌞ 使用 tailwindcss實作UI畫面的製作跟整體風格規劃加速開發效率<BR>
   ⌞ 使用 Material UI 配合tailwindcss，達成快速統一後台 UI 設計風格與功能<BR>
