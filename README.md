@@ -110,8 +110,8 @@
 
    
  # 遊戲後台網站 (遊戲後台網站)
- - <a href="https://joechen0730.github.io/Vuex-todolist/" target="_blank"><B>遊戲後台網站</B></a> <BR>
-  <a href="https://joechen0730.github.io/Vuex-todolist/" target="_blank"><img src="./image/backstage.png"><BR></a><BR>
+ - <a href="" target="_blank"><B>遊戲後台網站</B></a> <BR>
+  <a href="" target="_blank"><img src="./image/backstage.png"><BR></a><BR>
   ⌞ 使用 Next.js，實作SSR 和 SSG<BR>
   ⌞ 使用 tailwindcss實作UI畫面的製作跟整體風格規劃加速開發效率<BR>
   ⌞ 使用 Material UI 配合tailwindcss，達成快速統一後台 UI 設計風格與功能<BR>
@@ -136,11 +136,6 @@
   ⌞ 使用 SCSS 提高網頁效率及程式碼整潔<BR>
    
 
-  # 台灣電力公司WebAR遊戲網站(正在進行中)
- - <a target="_blank"><B>台灣電力公司WebAR遊戲網站</B></a> <BR>
-  ⌞ 使用 a-frame達成WebAR360畫面視角移動<BR>
-  ⌞ 使用 a-frame 撰寫邏輯達成物品視角拖曳及連線<BR>
-  ⌞ UI流程的畫面實作<BR>
-  ⌞ 使用 SCSS 提高網頁效率及程式碼整潔<BR>
+
 
 
