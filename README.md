@@ -87,7 +87,7 @@
 
   
  # 區塊鏈網站 (區塊鏈網站)
- - <a href="https://www.paraland.world/MyWallet/zh" target="blank"><B>區塊鏈網站</B></a> <BR>
+ - <a href="https://www.paraland.world/MyWallet/zh" target="blank"><B>區塊鏈魔盒網站</B></a> <BR>
    <a href="https://www.paraland.world/MyWallet/zh" target="blank"><img src="./image/MYWALLET_OG_IMG.png"><BR></a><BR>
    ⌞ 使用 Asp.Net Core以及 Bootstrap，在資料獲取完及運算後渲染至頁面。<BR>
    ⌞ 串接區塊鏈 WEB3.0 ，實作開盒跟解盲畫面流程<BR>
@@ -98,8 +98,8 @@
 
 
  # 區塊鏈募資活動網站 (區塊鏈募資活動網站)
- - <a href="https://www.paraland.world/MyWallet/zh" target="blank"><B>區塊鏈募資活動網站 (活動已結束)</B></a> <BR>
-   <a href="https://www.paraland.world/MyWallet/zh" target="blank"><img src="./image/MYWALLET_OG_IMG.png"><BR></a><BR>
+ - <a href="https://paraland-testing.azurewebsites.net/PARALedger/store/zh" target="blank"><B>區塊鏈募資活動網站 (活動已結束)</B></a> <BR>
+   <a href="https://paraland-testing.azurewebsites.net/PARALedger/store/zh" target="blank"><img src="./image/PARALEDGER_OG_IMG3.png"><BR></a><BR>
    ⌞ 使用 Asp.Net Core以及 Bootstrap，串接web3.0 實作電子錢包打幣流程<BR>
    ⌞ 串接 web3.0 實作網站連接metamask和 qubic 錢包<BR>
    ⌞ 串接區塊鏈 WEB3.0，並設計出斗內條UI得到目前募資額度<BR>
@@ -111,26 +111,26 @@
    
  # 遊戲後台網站 (遊戲後台網站)
  - <a href="https://joechen0730.github.io/Vuex-todolist/" target="_blank"><B>遊戲後台網站</B></a> <BR>
-  <a href="https://joechen0730.github.io/Vuex-todolist/" target="_blank"><img src="./image/EliteTrial_zh_OG_IMG.png"><BR></a><BR>
+  <a href="https://joechen0730.github.io/Vuex-todolist/" target="_blank"><img src="./image/backstage.png"><BR></a><BR>
   ⌞ 使用 Next.js，實作SSR 和 SSG<BR>
   ⌞ 使用 tailwindcss實作UI畫面的製作跟整體風格規劃加速開發效率<BR>
   ⌞ 使用 Material UI 配合tailwindcss，達成快速統一後台 UI 設計風格與功能<BR>
   ⌞ 使用Data fetch，串接後端api，整合所有api並管理<BR>
   ⌞ 使用Redux，並用 store 將 hook 狀態集中管理(實作中)<BR>
 
-  
+
 ### 其他外部專案 <BR>
 
  # 【JJ Lin】360 互動式WebAR遊戲後半部遊戲更新及製作
- - <a href="https://joechen0730.github.io/Vuex-todolist/" target="_blank"><B>360 互動式WebAR遊戲</B></a> <BR>
-  <a href="https://joechen0730.github.io/Vuex-todolist/" target="_blank"><img src="./image/EliteTrial_zh_OG_IMG.png"><BR></a><BR>
+ - <a target="_blank"><B>360 互動式WebAR遊戲</B></a> <BR>
+   <a target="_blank"><img src=""><BR></a><BR>
   ⌞ 使用 a-frame達成WebAR360畫面視角移動<BR>
   ⌞ 使用 jquery library撰寫互動式事件<BR>
   ⌞ 維護並管理整體遊戲運作及UI<BR>
 
   # 台新銀行WebAR遊戲網站
- - <a href="https://joechen0730.github.io/Vuex-todolist/" target="_blank"><B>台新銀行WebAR遊戲網站</B></a> <BR>
-  <a href="https://joechen0730.github.io/Vuex-todolist/" target="_blank"><img src="./image/EliteTrial_zh_OG_IMG.png"><BR></a><BR>
+ - <a href="https://nice-wave-09f23e400.azurestaticapps.net/" target="_blank"><B>台新銀行WebAR遊戲網站</B></a> <BR>
+   <a href="https://nice-wave-09f23e400.azurestaticapps.net/" target="_blank"><img src="./image/SK.png"><BR></a><BR>
 
   ⌞ 使用 a-frame達成WebAR360畫面視角移動<BR>
   ⌞ 使用 a-frame 撰寫邏輯達成物品視角拖曳及連線<BR>
@@ -138,9 +138,9 @@
   ⌞ 使用 SCSS 提高網頁效率及程式碼整潔<BR>
    
 
-  # 台灣電力公司WebAR遊戲網站
- - <a href="https://joechen0730.github.io/Vuex-todolist/" target="_blank"><B>台灣電力公司WebAR遊戲網站</B></a> <BR>
-  <a href="https://joechen0730.github.io/Vuex-todolist/" target="_blank"><img src="./image/EliteTrial_zh_OG_IMG.png"><BR></a><BR>
+  # 台灣電力公司WebAR遊戲網站(正在進行中)
+ - <a target="_blank"><B>台灣電力公司WebAR遊戲網站</B></a> <BR>
+  <a target="_blank"><img src=""><BR></a><BR>
 
   ⌞ 使用 a-frame達成WebAR360畫面視角移動<BR>
   ⌞ 使用 a-frame 撰寫邏輯達成物品視角拖曳及連線<BR>
