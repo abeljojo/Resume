@@ -123,7 +123,7 @@
 
  # 【JJ Lin】360 互動式WebAR遊戲後半部遊戲更新及製作
  - <a target="_blank"><B>360 互動式WebAR遊戲</B></a> <BR>
-   <a target="_blank"><img src=""><BR></a><BR>
+   <a target="_blank"><BR></a><BR>
   ⌞ 使用 a-frame達成WebAR360畫面視角移動<BR>
   ⌞ 使用 jquery library撰寫互動式事件<BR>
   ⌞ 維護並管理整體遊戲運作及UI<BR>
@@ -140,7 +140,7 @@
 
   # 台灣電力公司WebAR遊戲網站(正在進行中)
  - <a target="_blank"><B>台灣電力公司WebAR遊戲網站</B></a> <BR>
-  <a target="_blank"><img src=""><BR></a><BR>
+  <a target="_blank"><BR></a><BR>
 
   ⌞ 使用 a-frame達成WebAR360畫面視角移動<BR>
   ⌞ 使用 a-frame 撰寫邏輯達成物品視角拖曳及連線<BR>
